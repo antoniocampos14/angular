@@ -1,0 +1,5 @@
+{
+  "template": "angular", 
+  "ports": [4200],
+  "name": "Angular2"
+}
